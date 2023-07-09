@@ -83,6 +83,7 @@ tape('should get stream', function (t) {
       t.end()
     })
 })
+<<<<<<< HEAD
 
 tape('should get echo', function (t) {
   var url = '/echo?one=1&two=2'
@@ -94,3 +95,5 @@ tape('should get echo', function (t) {
     t.end()
   })
 })
+=======
+>>>>>>> e804347a723116ae9d6189832f19e12fc3cac31c
